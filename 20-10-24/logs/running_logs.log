@@ -69,3 +69,99 @@ Source-Age: 0
 [2024-10-20 21:57:14,998: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
 
 x==========x]
+[2024-10-20 22:56:59,733: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-20 22:56:59,735: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-20 22:56:59,738: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-10-20 22:56:59,740: INFO: common: created directory at: artifacts]
+[2024-10-20 22:56:59,741: INFO: common: created directory at: artifacts/data_validation]
+[2024-10-20 22:58:01,450: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-20 22:58:01,452: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-20 22:58:01,452: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-10-20 22:58:01,452: INFO: common: created directory at: artifacts]
+[2024-10-20 22:58:01,452: INFO: common: created directory at: artifacts/data_validation]
+[2024-10-20 22:58:25,296: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-10-20 22:58:25,296: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-20 22:58:25,296: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-20 22:58:25,296: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-10-20 22:58:25,296: INFO: common: created directory at: artifacts]
+[2024-10-20 22:58:25,296: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-20 22:58:26,356: INFO: data_ingesion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 17075
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "84beb1f14d2bfce3e2e788a8d7ff124b57eadb76b720939b0b6ae7e8da5d50ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D97C:3D30D:4441C:53FA0:67153DB6
+Accept-Ranges: bytes
+Date: Sun, 20 Oct 2024 17:28:25 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4720-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1729445306.698361,VS0,VE297
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 14c9f6bb2759e3b0871a165791364a8a1786b8fb
+Expires: Sun, 20 Oct 2024 17:33:25 GMT
+Source-Age: 0
+
+]
+[2024-10-20 22:58:26,376: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-10-20 22:58:46,299: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-20 22:58:46,301: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-20 22:58:46,303: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-10-20 22:58:46,304: INFO: common: created directory at: artifacts]
+[2024-10-20 22:58:46,304: INFO: common: created directory at: artifacts/data_validation]
+[2024-10-20 23:13:55,464: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-10-20 23:13:55,466: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-20 23:13:55,468: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-20 23:13:55,470: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-10-20 23:13:55,472: INFO: common: created directory at: artifacts]
+[2024-10-20 23:13:55,472: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-20 23:13:56,273: INFO: data_ingesion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 17075
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "84beb1f14d2bfce3e2e788a8d7ff124b57eadb76b720939b0b6ae7e8da5d50ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D97C:3D30D:4441C:53FA0:67153DB6
+Accept-Ranges: bytes
+Date: Sun, 20 Oct 2024 17:43:55 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4735-BOM
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1729446236.656081,VS0,VE258
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: bffc9cf8cd8934560a2bb04a05abecebfbc2846c
+Expires: Sun, 20 Oct 2024 17:48:55 GMT
+Source-Age: 0
+
+]
+[2024-10-20 23:13:56,290: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-10-20 23:13:56,291: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-10-20 23:13:56,294: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-20 23:13:56,294: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-20 23:13:56,297: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-10-20 23:13:56,297: INFO: common: created directory at: artifacts]
+[2024-10-20 23:13:56,298: INFO: common: created directory at: artifacts/data_validation]
+[2024-10-20 23:13:56,318: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]

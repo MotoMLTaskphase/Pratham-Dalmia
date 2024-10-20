@@ -1,0 +1,16 @@
+COLUMNS:
+  OverallQual   : int64
+  GrLivArea     : int64
+  GarageCars    : int64
+  GarageArea    : int64
+  TotalBsmtSF   : int64
+  1stFlrSF      : int64
+  FullBath      : int64
+  TotRmsAbvGrd  : int64
+  YearBuilt     : int64
+  YearRemodAdd  : int64
+  SalePrice     : int64
+
+
+TARGET_COLUMN:
+  name: SalePrice
